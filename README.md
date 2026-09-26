@@ -1,4 +1,4 @@
-# OpenMixer2040
+# OpenMixer2040 <img width="90" height="80" alt="image" src="https://raw.githubusercontent.com/ICantMakeThings/OpenMixer2040/be5d4d4fd2ea84082b4a89ca453846b7b966d545/certification-mark-PL000027-stacked.svg" />
 
 The OpenMixer2040 is a open source PWM Delta Wing Mixer that follows the [KISS](https://en.wikipedia.org/wiki/KISS_principle) (keep it simple stupid) principle.
 
